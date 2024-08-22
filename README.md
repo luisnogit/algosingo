@@ -17,4 +17,8 @@ Implementing algorithms in Go, using the *Introduction to Algorithms (4th Editio
 - [ ] Red-Black Tree
 - [ ] B-Tree
 
-> **_NOTE:_** This list is subject to change. Some algorithms may not be implemented either because I already know them or simply because I don't want to (e.g., Bubble Sort, Binary Tree, AVL Tree).
+> **_NOTE:_** 
+> - This list is subject to change. 
+> - Some algorithms may not be implemented either because I already know them or simply because I don't want to (e.g., Bubble Sort, Binary Tree, AVL Tree).
+> - The implementation order is not linear. 
+  
